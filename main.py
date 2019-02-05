@@ -8,7 +8,7 @@ def initialize():
     pygame.display.init()
 
     freetype.init()
-    font = freetype.Font("pincoyablack.otf")
+    font = freetype.Font("data/pincoyablack.otf")
 
     print(font)
 
